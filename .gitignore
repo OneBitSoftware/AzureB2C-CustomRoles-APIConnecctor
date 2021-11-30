@@ -3,3 +3,5 @@
 RolesWebAPI/obj
 RolesWebAPI/bin
 ngrok.exe
+Web/bin
+Web/obj
