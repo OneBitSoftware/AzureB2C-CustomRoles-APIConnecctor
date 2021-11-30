@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RolesWebAPI", "RolesWebAPI\RolesWebAPI.csproj", "{DFF04EAA-31C8-4B83-8513-53533201CA82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECS2021", "Web\ECS2021.csproj", "{BA92DE54-0C4C-4B08-89F2-1BEA054E4163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF04EAA-31C8-4B83-8513-53533201CA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF04EAA-31C8-4B83-8513-53533201CA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF04EAA-31C8-4B83-8513-53533201CA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF04EAA-31C8-4B83-8513-53533201CA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA92DE54-0C4C-4B08-89F2-1BEA054E4163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA92DE54-0C4C-4B08-89F2-1BEA054E4163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA92DE54-0C4C-4B08-89F2-1BEA054E4163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA92DE54-0C4C-4B08-89F2-1BEA054E4163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D793C1C-7B2A-4D44-B662-3AED18E5DDB0}
+	EndGlobalSection
+EndGlobal

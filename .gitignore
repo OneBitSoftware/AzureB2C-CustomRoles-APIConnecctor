@@ -5,3 +5,4 @@ RolesWebAPI/bin
 ngrok.exe
 Web/bin
 Web/obj
+Web/ECS2021.csproj.user
